@@ -1,0 +1,16 @@
+{
+    "name": "easy-light/mvc",
+    "description": "Easy Light MVC",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Fagundes",
+            "email": "easylightfw@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+ }
