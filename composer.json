@@ -13,8 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "EasyLight\\" : "vendor/easy-light",
-            "EasyMVC\\" : "easy-mvc"
+            "EasyLight\\EasyMVC\\": "src"
         }
     },
     "minimum-stability": "dev",
