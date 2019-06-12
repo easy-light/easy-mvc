@@ -11,6 +11,12 @@
     "require": {
         "php": ">=7.0.0"
     },
+    "autoload": {
+        "psr-4": {
+            "EasyLight\\" : "vendor/easy-light",
+            "EasyMVC\\" : "easy-mvc"
+        }
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
  }
